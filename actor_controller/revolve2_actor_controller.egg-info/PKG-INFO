@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: revolve2-actor-controller
+Version: 0.3.8b1
+Summary: Individual Actor controller for revolve2
+Home-page: https://github.com/ci-group/revolve2
+Author: Computational Intelligence Group Vrije Universiteit
+Requires-Dist: revolve2-serialization@ file:///home/fdelima/thesis/revolve2/serialization
+Requires-Dist: numpy>=1.21.6
+Provides-Extra: dev

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: revolve2-serialization
+Version: 0.3.8b1
+Summary: Serialization classes and helper functions for revolve2
+Home-page: https://github.com/ci-group/revolve2
+Author: Computational Intelligence Group Vrije Universiteit
+Requires-Dist: typing_extensions==4.1.1
+Provides-Extra: dev

@@ -1,0 +1,4 @@
+revolve2-serialization@ file:///home/fdelima/thesis/revolve2/serialization
+numpy>=1.21.6
+
+[dev]
